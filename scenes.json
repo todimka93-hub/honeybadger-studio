@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "focus_x": 0.5,
+    "focus_y": 0.45,
+    "motion": "push"
+  },
+  "scenes": {
+    "1": {
+      "focus_x": 0.52,
+      "focus_y": 0.35,
+      "motion": "push"
+    },
+    "2": {
+      "focus_x": 0.68,
+      "focus_y": 0.4,
+      "motion": "pan_right"
+    },
+    "3": {
+      "focus_x": 0.47,
+      "focus_y": 0.38,
+      "motion": "pull"
+    },
+    "4": {
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "motion": "static"
+    }
+  }
+}
