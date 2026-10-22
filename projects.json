@@ -1,0 +1,47 @@
+{
+  "crow": {
+    "style": "Photorealistic wildlife documentary, anatomically correct single animal, natural proportions, cinematic overcast light, moody forest, atmospheric depth, vertical 9:16, no typography, no collage, no watermark. Hooded crow (Corvus cornix), grey body and black head.",
+    "scenes": [
+      "Crow watches the dawn from a wet forest branch.",
+      "Extreme close-up of the crow eye and glossy feathers.",
+      "Crow watches a hooded pedestrian from a city railing.",
+      "Crow turns its head to follow the pedestrian.",
+      "Crow launches into the cloudy sky above rooftops.",
+      "Crow finds a walnut on autumn pavement.",
+      "Crow grips the walnut in its beak.",
+      "Crow drops the walnut onto empty asphalt.",
+      "Crow waits by a crossing as a distant car approaches.",
+      "Crow pecks at cracked walnut on wet cobblestones."
+    ]
+  },
+  "wolverine": {
+    "style": "Photorealistic wildlife documentary, anatomically correct single animal, natural proportions, cinematic overcast light, moody forest, atmospheric depth, vertical 9:16, no typography, no collage, no watermark. Wolverine (Gulo gulo), stocky brown mustelid with pale flank stripes, not a wolf.",
+    "scenes": [
+      "Wolverine emerges from a snowy spruce forest at dawn.",
+      "Extreme close-up of wolverine eyes and frosted whiskers.",
+      "Wolverine sniffs tracks in deep powder snow.",
+      "Wolverine walks over fallen timber, strong short legs visible.",
+      "Wolverine digs beneath snow for cached food.",
+      "Close-up of thick curved claws scratching icy bark.",
+      "Wolverine crosses a frozen stream under grey skies.",
+      "Wolverine confronts a distant larger predator across a snowy clearing.",
+      "Wolverine stands over a food cache in blowing snow.",
+      "Wolverine disappears into a dark alpine forest at dusk."
+    ]
+  },
+  "wolf": {
+    "style": "Photorealistic wildlife documentary, anatomically correct single animal, natural proportions, cinematic overcast light, moody forest, atmospheric depth, vertical 9:16, no typography, no collage, no watermark. Grey wolf (Canis lupus), accurate lupine anatomy.",
+    "scenes": [
+      "Lone grey wolf stands in winter pine forest at dawn.",
+      "Extreme close-up of wolf amber eye and fur.",
+      "Wolf sniffs fresh tracks along a snow-covered trail.",
+      "Wolf walks slowly through tall snowy pines.",
+      "Wolf pauses and listens with ears forward.",
+      "Wolf pack silhouettes moving between distant trees.",
+      "Grey wolf crosses a shallow frozen creek.",
+      "Wolf howls on a ridge in cold twilight.",
+      "Wolf looks back over shoulder toward distant pack.",
+      "Wolf disappears into mist among trees at sunset."
+    ]
+  }
+}
